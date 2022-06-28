@@ -10,7 +10,7 @@
     -ms-transform: translate(-50%, -40%);
 
     margin: 0 auto;
-    width: 575px;
+    width: max(34vw, 250px);
     border-radius: 30px;
     border: 1px solid #dcdcdc;
 }
@@ -27,7 +27,7 @@
 .input {
     height: 45px;
     border: none;
-    width: 500px;
+    width: 85%;
     font-size: 16px;
     outline: none;
 }
